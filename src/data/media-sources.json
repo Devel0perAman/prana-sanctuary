@@ -1,0 +1,362 @@
+{
+ "hero-poster": {
+  "url": "/media/hero-poster.webp",
+  "alt": "Silhouette of a woman practising yoga at sunset"
+ },
+ "philosophy": {
+  "url": "/media/home-about.webp",
+  "alt": "Woman meditating peacefully in a calm room"
+ },
+ "hatha": {
+  "url": "/media/hatha.webp",
+  "alt": "Practitioner holding a classical yoga posture"
+ },
+ "vinyasa": {
+  "url": "/media/vinyasa.webp",
+  "alt": "Upward and downward facing dog flow"
+ },
+ "yin": {
+  "url": "/media/yin.webp",
+  "alt": "Girl meditating in a restful pose at sunset"
+ },
+ "pranayama": {
+  "url": "/media/pranayama.webp",
+  "alt": "Woman meditating and breathing deeply"
+ },
+ "sound": {
+  "url": "/media/g-bowls.webp",
+  "alt": "Tibetan singing bowl during meditation"
+ },
+ "outdoor": {
+  "url": "/media/course-foundations.webp",
+  "alt": "Young woman meditating outdoors"
+ },
+ "sea": {
+  "url": "/media/g-bhavana.webp",
+  "alt": "Woman doing yoga by the sea at sunset"
+ },
+ "headstand": {
+  "url": "/media/course-asana.webp",
+  "alt": "Woman in a headstand yoga pose"
+ },
+ "group": {
+  "url": "/media/teacher-training.webp",
+  "alt": "Three people practising yoga together"
+ },
+ "sunrise": {
+  "url": "/media/space-shala.webp",
+  "alt": "Silhouette of a woman at sunrise"
+ },
+ "desert": {
+  "url": "/media/g-garden.webp",
+  "alt": "Woman meditating seated in open land"
+ },
+ "wind": {
+  "url": "/media/space-tea.webp",
+  "alt": "Girl meditating as the wind moves around her"
+ },
+ "campfire": {
+  "url": "/media/g-aarti.webp",
+  "alt": "Woman practising yoga beside a campfire"
+ },
+ "arms-up": {
+  "url": "/media/life-deck.webp",
+  "alt": "Girl with arms raised in a yoga posture"
+ },
+ "neck": {
+  "url": "/media/life-pond.webp",
+  "alt": "Girl stretching her neck before practice"
+ },
+ "stretch": {
+  "url": "/media/g-yin.webp",
+  "alt": "Girl stretching while seated outdoors"
+ },
+ "founder": {
+  "url": "/media/founder.webp",
+  "alt": "Founder seated in meditation at the Sanctuary"
+ },
+ "space-shala": {
+  "url": "/media/space-shala.webp",
+  "alt": "The Sunlit Shala with arched windows and cedar floor"
+ },
+ "space-dome": {
+  "url": "/media/space-dome.webp",
+  "alt": "The Sound Dome acoustic chamber"
+ },
+ "space-tea": {
+  "url": "/media/space-tea.webp",
+  "alt": "Botanical Tea Pavilion among leaves"
+ },
+ "life-deck": {
+  "url": "/media/life-deck.webp",
+  "alt": "Mountain deck at sunrise"
+ },
+ "life-garden": {
+  "url": "/media/life-garden.webp",
+  "alt": "Garden walking path"
+ },
+ "life-pond": {
+  "url": "/media/life-pond.webp",
+  "alt": "Lotus pond at dusk"
+ },
+ "life-yin": {
+  "url": "/media/life-yin.webp",
+  "alt": "Restorative yin by the window"
+ },
+ "life-tea": {
+  "url": "/media/life-tea.webp",
+  "alt": "Ayurvedic tea ritual pavilion"
+ },
+ "g-cohort": {
+  "url": "/media/g-cohort.webp",
+  "alt": "Teacher training cohort in the shala"
+ },
+ "g-vagus": {
+  "url": "/media/g-vagus.webp",
+  "alt": "Seated pranayama for vagal tone"
+ },
+ "g-ayur": {
+  "url": "/media/g-ayur.webp",
+  "alt": "Ayurvedic botanicals and herbal oils"
+ },
+ "g-shala": {
+  "url": "/media/g-shala.webp",
+  "alt": "Sanctuary shala with floor mats"
+ },
+ "g-aarti": {
+  "url": "/media/g-aarti.webp",
+  "alt": "Evening aarti by the river"
+ },
+ "tour360": {
+  "url": "/media/tour360.webp",
+  "alt": "360° view of the Sound Dome"
+ },
+ "cta-bg": {
+  "url": "/media/cta-bg.webp",
+  "alt": "Misty valley at dusk"
+ },
+ "faculty-0": {
+  "url": "/media/faculty-0.webp",
+  "alt": "Resident teacher in meditation"
+ },
+ "faculty-1": {
+  "url": "/media/faculty-1.webp",
+  "alt": "Resident teacher in prayer pose"
+ },
+ "faculty-2": {
+  "url": "/media/faculty-2.webp",
+  "alt": "Resident teacher with singing bowls"
+ },
+ "faculty-3": {
+  "url": "/media/faculty-3.webp",
+  "alt": "Resident teacher in tree pose"
+ },
+ "teacher-training": {
+  "url": "/media/teacher-training.webp",
+  "alt": "Teacher training cohort practising together"
+ },
+ "about-hero": {
+  "url": "/media/about-hero.webp",
+  "alt": "About hero"
+ },
+ "about-kitchen": {
+  "url": "/media/about-kitchen.webp",
+  "alt": "About kitchen"
+ },
+ "about-land": {
+  "url": "/media/about-land.webp",
+  "alt": "About land"
+ },
+ "about-lineage": {
+  "url": "/media/about-lineage.webp",
+  "alt": "About lineage"
+ },
+ "contact-hero": {
+  "url": "/media/contact-hero.webp",
+  "alt": "Contact hero"
+ },
+ "course-asana": {
+  "url": "/media/course-asana.webp",
+  "alt": "Advanced asana practice on the deck"
+ },
+ "course-foundations": {
+  "url": "/media/course-foundations.webp",
+  "alt": "Beginner meditating in a bright room"
+ },
+ "course-pranayama": {
+  "url": "/media/course-pranayama.webp",
+  "alt": "Ripples of breath on still water"
+ },
+ "course-sequencing": {
+  "url": "/media/course-sequencing.webp",
+  "alt": "A small group learning sequencing"
+ },
+ "course-vinyasa": {
+  "url": "/media/course-vinyasa.webp",
+  "alt": "Warrior flow at sunrise"
+ },
+ "course-yin": {
+  "url": "/media/course-yin.webp",
+  "alt": "Yin practice with soft light"
+ },
+ "courses-hero": {
+  "url": "/media/courses-hero.webp",
+  "alt": "Courses hero"
+ },
+ "day-chai": {
+  "url": "/media/day-chai.webp",
+  "alt": "Day chai"
+ },
+ "day-dawn": {
+  "url": "/media/day-dawn.webp",
+  "alt": "Day dawn"
+ },
+ "day-lunch": {
+  "url": "/media/day-lunch.webp",
+  "alt": "Day lunch"
+ },
+ "day-nidra": {
+  "url": "/media/day-nidra.webp",
+  "alt": "Day nidra"
+ },
+ "day-sadhana": {
+  "url": "/media/day-sadhana.webp",
+  "alt": "Day sadhana"
+ },
+ "day-sound": {
+  "url": "/media/day-sound.webp",
+  "alt": "Day sound"
+ },
+ "event-1": {
+  "url": "/media/event-1.webp",
+  "alt": "Event 1"
+ },
+ "event-2": {
+  "url": "/media/event-2.webp",
+  "alt": "Event 2"
+ },
+ "event-3": {
+  "url": "/media/event-3.webp",
+  "alt": "Event 3"
+ },
+ "faculty-4": {
+  "url": "/media/faculty-4.webp",
+  "alt": "Faculty 4"
+ },
+ "faculty-5": {
+  "url": "/media/faculty-5.webp",
+  "alt": "Faculty 5"
+ },
+ "g-bhavana": {
+  "url": "/media/g-bhavana.webp",
+  "alt": "G bhavana"
+ },
+ "g-bowls": {
+  "url": "/media/g-bowls.webp",
+  "alt": "Singing bowls glowing in warm light"
+ },
+ "g-garden": {
+  "url": "/media/g-garden.webp",
+  "alt": "G garden"
+ },
+ "g-yin": {
+  "url": "/media/g-yin.webp",
+  "alt": "Restorative child pose by a window"
+ },
+ "home-about": {
+  "url": "/media/home-about.webp",
+  "alt": "Home about"
+ },
+ "map": {
+  "url": "/media/map.webp",
+  "alt": "Map"
+ },
+ "og": {
+  "url": "/media/og.webp",
+  "alt": "Og"
+ },
+ "person-0": {
+  "url": "/media/person-0.webp",
+  "alt": "Person 0"
+ },
+ "person-1": {
+  "url": "/media/person-1.webp",
+  "alt": "Person 1"
+ },
+ "person-2": {
+  "url": "/media/person-2.webp",
+  "alt": "Person 2"
+ },
+ "person-3": {
+  "url": "/media/person-3.webp",
+  "alt": "Person 3"
+ },
+ "person-4": {
+  "url": "/media/person-4.webp",
+  "alt": "Person 4"
+ },
+ "person-5": {
+  "url": "/media/person-5.webp",
+  "alt": "Person 5"
+ },
+ "rk-aarti": {
+  "url": "/media/rk-aarti.webp",
+  "alt": "Ganga aarti with floating lamps at dusk"
+ },
+ "rk-bridge-dusk": {
+  "url": "/media/rk-bridge-dusk.webp",
+  "alt": "Rishikesh footbridge under a dusk sky"
+ },
+ "rk-bridge": {
+  "url": "/media/rk-bridge.webp",
+  "alt": "Suspension footbridge over the Ganga at dawn"
+ },
+ "rk-cafe": {
+  "url": "/media/rk-cafe.webp",
+  "alt": "Open-air tea pavilion among leaves"
+ },
+ "rk-cave": {
+  "url": "/media/rk-cave.webp",
+  "alt": "Meditation dome with morning light"
+ },
+ "rk-ganga": {
+  "url": "/media/rk-ganga.webp",
+  "alt": "A quiet bend of the Ganga at sunrise"
+ },
+ "rk-grove": {
+  "url": "/media/rk-grove.webp",
+  "alt": "A meditator in a forest grove"
+ },
+ "rk-hills": {
+  "url": "/media/rk-hills.webp",
+  "alt": "Himalayan foothills in morning mist"
+ },
+ "rk-ridge": {
+  "url": "/media/rk-ridge.webp",
+  "alt": "A practitioner on a ridge at sunrise"
+ },
+ "rk-rooms": {
+  "url": "/media/rk-rooms.webp",
+  "alt": "Garden room with arched windows"
+ },
+ "rk-spice": {
+  "url": "/media/rk-spice.webp",
+  "alt": "Bowls of spices and herbs for the sattvic kitchen"
+ },
+ "rk-yogapeeth": {
+  "url": "/media/rk-yogapeeth.webp",
+  "alt": "Warrior pose in the sunlit shala"
+ },
+ "step-1": {
+  "url": "/media/step-1.webp",
+  "alt": "Step 1"
+ },
+ "step-2": {
+  "url": "/media/step-2.webp",
+  "alt": "Step 2"
+ },
+ "step-3": {
+  "url": "/media/step-3.webp",
+  "alt": "Step 3"
+ }
+}
